@@ -4,7 +4,7 @@
 - [Mohamed El Amri](https://github.com/elamrimohamed)
 - [Arsenii-Petushkov](https://github.com/Petushkoff_Develop)
 - [Bear Kruz](https://github.com/bearkruz)
-- [Digvijay Singh]
+- [Digvijay Singh
 - [Asrori](https://github.com/Asrori)
 - [Brad Singleton](https://github.com/bradjsingleton)
 - [Cormac] (https://github.com/cormacd9818)

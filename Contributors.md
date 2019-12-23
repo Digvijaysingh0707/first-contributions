@@ -8,6 +8,7 @@
 - [Asrori](https://github.com/Asrori)
 - [Brad Singleton](https://github.com/bradjsingleton)
 - [Cormac] (https://github.com/cormacd9818)
+Digvijay Singh
 - [Suhani](https://github.com/suhani-goel)
 - [Ben] (https://github.com/zerler)
 - [Aahel Guha] (https://github.com/aahel)

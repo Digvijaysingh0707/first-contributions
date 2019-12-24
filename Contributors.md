@@ -9754,5 +9754,4 @@ Aman Panjwani
 - [Akshay Chopra](https://github.com/akshaychopra96)
 - [Arturo Muller](https://github.com/arturomuller)
 - [Eshawn Karim](https://github.com/ek1437)
-- [Doyin Kareem](https://github.com/deekay112)
-- 
+- [Doyin K
